@@ -8,6 +8,12 @@ Real-time Currency Converter with Interactive UI: Built with HTML, CSS, and Java
 Demo link is provided in the about section.
 
 
+## Screenshots
+
+[App Screenshot]
+![cc](https://github.com/user-attachments/assets/9cd65f3a-133f-4b56-a54f-5e507c6c5df9)
+
+
 ## FAQ
 
 
@@ -22,10 +28,7 @@ The exchange rates are updated in real-time to ensure accuracy. However, the fre
 
 
 
-## Screenshots
 
-[App Screenshot]
-![cc](https://github.com/user-attachments/assets/9cd65f3a-133f-4b56-a54f-5e507c6c5df9)
 
 
 
